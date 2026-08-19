@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Mental Models"
+  short_description: "Evaluate public stocks with mental models"
+  default_prompt: "Use $stock-mental-models to evaluate a public stock and give a sourced Add/Hold/Trim/Sell decision."
